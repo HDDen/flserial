@@ -1,4 +1,4 @@
-removed/* -*- mode: c; tab-width: 2; indent-tabs-mode: nil; -*-
+/* -*- mode: c; tab-width: 2; indent-tabs-mode: nil; -*-
 Copyright (c) 2012 Marcus Geelnard
 Copyright (c) 2013-2016 Evan Nemerson
 
